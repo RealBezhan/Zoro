@@ -1,0 +1,2 @@
+# Zoro
+Currently studying Python
